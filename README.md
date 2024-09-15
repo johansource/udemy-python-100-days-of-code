@@ -13,7 +13,7 @@ This repository contains code and projects from the Udemy course *100 Days of Co
 
 The repository is organized into different folders corresponding to each day or section of the course. Here’s an overview of the structure:
 
-- `day-01-variables` - Contains basics related to Python variables, including variable assignment and naming conventions.
+- `day-01-variables/` - Contains basics related to Python variables, including variable assignment and naming conventions.
 - `day-02-data-types/` - Focuses on Python data types such as integers, floats, strings, and basic operations on them.
 - `day-03-control-flow/` - Covers control flow concepts such as conditionals (if, else, elif), logical operators, and decision-making structures.
 - `day-04-lists-and-randomisation/` - Introduces lists, list operations, and the use of the random module for generating random values.
