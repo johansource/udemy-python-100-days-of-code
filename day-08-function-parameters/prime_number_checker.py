@@ -5,7 +5,6 @@ def prime_checker(number):
             is_prime = False
     return is_prime
 
-
 n = int(input("Enter number to check if prime: "))
 is_prime = prime_checker(number=n)
 

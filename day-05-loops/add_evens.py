@@ -1,4 +1,3 @@
-
 sum_even_numbers = 0
 
 # for num in range(2, 100, 2):

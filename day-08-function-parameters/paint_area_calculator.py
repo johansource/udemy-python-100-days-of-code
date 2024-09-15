@@ -1,9 +1,7 @@
 import math
 
-
 def paint_area_calc(height, width, coverage):
     return math.ceil((height * width) / coverage)
-
 
 wall_height = int(input("Enter wall height: "))
 wall_width = int(input("Enter wall width: "))
